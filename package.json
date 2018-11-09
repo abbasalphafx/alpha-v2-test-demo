@@ -1,0 +1,17 @@
+{
+  "name": "alpha-v2-test-demo",
+  "version": "1.0.0",
+  "description": "test demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.1.1",
+    "cypress-cucumber-preprocessor": "^1.6.0",
+    "dotenv": "^6.1.0"
+  }
+}
